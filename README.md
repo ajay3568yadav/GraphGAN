@@ -20,4 +20,4 @@ Graph GAN is a generative model designed to create graph-structured data using W
 
 ---
 
-###The dataset used for traning the GraphGAN is available in the SURI Project and this this project is a part of Artificial netlist generation project by the VDA Lab at Arizona State University
+### The dataset used for traning the GraphGAN is available in the SURI Project and this this project is a part of Artificial netlist generation project by the VDA Lab at Arizona State University
